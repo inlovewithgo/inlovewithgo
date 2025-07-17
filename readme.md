@@ -1,4 +1,4 @@
-### Hi there 👋, I'm c!
+### Hi there 👋, I'm Shubham!
 
 Hey, I'm Shubham, A very good procrastinator
 
