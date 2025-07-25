@@ -4,6 +4,7 @@ Hey, I'm Shubham, A very good procrastinator
 
  **Information:**
 
+- 🔭 Currently working for Enigma
 - 🔭 I’m currently contributing on  [Call](https://joincall.co) . [Nimbus](https://nimbus.storage)
 - 🌱 I’m currently learning  **Java**
 
