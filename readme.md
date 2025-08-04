@@ -61,6 +61,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus&logoColor=E6522C)
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)
+
 
 ---
 
