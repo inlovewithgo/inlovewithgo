@@ -9,8 +9,8 @@
 <div align="center">
   <strong>Software Engineer · Backend Developer · OSS Contributor</strong>
   <br/>
-  <a href="mailto:wilfred.shubham@gmail.com">
-    <img src="https://img.shields.io/badge/-wilfred.shubham@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
+  <a href="mailto:hi@yssh.dev">
+    <img src="https://img.shields.io/badge/-hi@yssh.dev-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://github.com/inlovewithgo">
     <img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white"/>
