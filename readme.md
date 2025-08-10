@@ -39,6 +39,7 @@
 **Languages:**  
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=00599C&labelColor=05122A)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
