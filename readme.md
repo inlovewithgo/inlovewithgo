@@ -15,11 +15,8 @@
   <a href="https://yssh.dev" target="_blank">
     <img src="https://img.shields.io/badge/-yssh.dev-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/inlovewithgo">
-    <img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/extractings">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://yssh.dev/blog" target="_blank">
+    <img src="https://img.shields.io/badge/-Blog-05122A?style=flat-square&logo=hashnode&logoColor=2962FF"/>
   </a>
 </div>
 
