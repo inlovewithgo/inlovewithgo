@@ -12,6 +12,9 @@
   <a href="mailto:hi@yssh.dev">
     <img src="https://img.shields.io/badge/-hi@yssh.dev-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
   </a>
+  <a href="https://yssh.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-yssh.dev-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://github.com/inlovewithgo">
     <img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white"/>
   </a>
@@ -46,6 +49,10 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)
+![Clerk](https://img.shields.io/badge/-Clerk-05122A?style=flat&logo=clerk)
+![Better%20Auth](https://img.shields.io/badge/-Better%20Auth-05122A?style=flat&logo=auth0&logoColor=white)
+![Resend](https://img.shields.io/badge/-Resend-05122A?style=flat&logo=minutemailer&logoColor=white)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
@@ -53,6 +60,9 @@
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4DB33D)
+![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeorm&logoColor=F37626)
+![Drizzle%20ORM](https://img.shields.io/badge/-Drizzle%20ORM-05122A?style=flat&logo=drizzle&logoColor=F1E05A)
+![NeonDB](https://img.shields.io/badge/-NeonDB-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9IiNmZmYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgyNTZ2MjU2SDBWMHoiLz48cGF0aCBkPSJNMTI4IDM2TDQ4IDE4MEg4MFYyMjBIMTYwVjE4MEgyMDhMMTI4IDM2WiIvPjwvc3ZnPg==)
 
 **DevOps & Tools:**  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -63,7 +73,6 @@
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus&logoColor=E6522C)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)
-
 
 ---
 
