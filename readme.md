@@ -27,9 +27,10 @@
 
 ## 🧑‍💻 About Me
 - SWE @ **Enigma**, building scalable backend systems.
+- Currently Building Transit . [Backend](https://github.com/inlovewithgo/transit-backend)
 - OSS contributor at [Call](https://joincall.co) & [Nimbus](https://nimbus.storage).
 - Focus: clean code, high performance, developer experience.
-- Exploring **Java**, power-user of **Go**, **TypeScript**, **Python**.
+- Exploring **C++**, power-user of **Go**, **TypeScript**, **Python**.
 
 ---
 
