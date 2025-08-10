@@ -18,6 +18,9 @@
   <a href="https://yssh.dev/blog" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-05122A?style=flat-square&logo=hashnode&logoColor=2962FF"/>
   </a>
+  <a href="https://yssh.dev/resume" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-05122A?style=flat-square&logo=readme&logoColor=FFD700"/>
+  </a>
 </div>
 
 ---
