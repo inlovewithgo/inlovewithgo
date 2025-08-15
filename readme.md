@@ -54,16 +54,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/inlovewithgo">
-    <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=inlovewithgo&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long" height="160"/>
+  <a href="https://github.com/Bas3line">
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=Bas3line&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long" height="160"/>
   </a>
-  <a href="https://github.com/inlovewithgo">
-    <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=inlovewithgo&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10" height="160"/>
+  <a href="https://github.com/Bas3line">
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Bas3line&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10" height="160"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inlovewithgo&style=flat&color=lightgray" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Bas3line&style=flat&color=lightgray" alt="profile views"/>
 </p>
