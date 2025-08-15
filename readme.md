@@ -30,7 +30,7 @@
 - Currently Building Transit . [Backend](https://github.com/inlovewithgo/transit-backend)
 - OSS contributor at [Call](https://joincall.co) & [Nimbus](https://nimbus.storage).
 - Focus: clean code, high performance, developer experience.
-- Exploring **C++**, power-user of **Go**, **TypeScript**, **Python**.
+- Exploring **Rust**, power-user of **Go**, **TypeScript**, **Python**.
 
 ---
 
