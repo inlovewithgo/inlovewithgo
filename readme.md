@@ -9,8 +9,8 @@
 <div align="center">
   <strong>Software Engineer · Backend Developer · OSS Contributor</strong>
   <br/>
-  <a href="mailto:hi@yssh.dev">
-    <img src="https://img.shields.io/badge/-hi@yssh.dev-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
+  <a href="https://yssh.dev/contact">
+    <img src="https://img.shields.io/badge/-Contact-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://yssh.dev" target="_blank">
     <img src="https://img.shields.io/badge/-yssh.dev-000000?style=flat-square&logo=vercel&logoColor=white"/>
