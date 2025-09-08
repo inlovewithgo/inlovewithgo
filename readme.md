@@ -43,9 +43,10 @@
 ## 🚀 Projects
 
 - **[Groot](https://grootbot.pro):** Fast, scalable Discord music bot
-- **[Vivix AI](https://github.com/inlovewithgo/vivix-ai):** Modular AI agent platform
-- **[MemePay](https://github.com/inlovewithgo):** Solana memecoin trading app
-- **[Patreon OAuth2 API](https://github.com/inlovewithgo/patreon-payment-api):** Secure access for Patreon data
+- **[Vivix AI](https://github.com/Bas3line/vivix-ai):** Modular AI agent platform
+- **[MemePay](https://github.com/Bas3line):** Solana memecoin trading app
+- **[AIGIT](https://github.com/Bas3line/aigit)** Git clone in RUST with AI Powers
+- **[Patreon OAuth2 API](https://github.com/Bas3line/patreon-payment-api):** Secure access for Patreon data
 
 ---
 
