@@ -26,6 +26,7 @@
 ---
 
 ## 🧑‍💻 About Me
+- Junior Backend & Devops Engineer at DynTech
 - Currently Building Transit . [resure](https://resure.tech)
 - OSS contributor at [Call](https://joincall.co) & [Nimbus](https://nimbus.storage).
 - Focus: clean code, high performance, developer experience.
